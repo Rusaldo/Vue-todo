@@ -1,0 +1,83 @@
+{
+  "categories": [
+    {
+      "name": "wer",
+      "colorId": 6,
+      "id": 10
+    },
+    {
+      "name": "Фильмы и сериалы",
+      "colorId": 4,
+      "id": 11
+    },
+    {
+      "name": "Фронтенд",
+      "colorId": 2,
+      "id": 12
+    }
+  ],
+  "tasks": [
+    {
+      "text": "Ирландец",
+      "categoryId": 11,
+      "id": 1
+    },
+    {
+      "text": "Темные начала",
+      "categoryId": 11,
+      "id": 2
+    },
+    {
+      "text": "Достать ножи (28 ноября)",
+      "categoryId": 11,
+      "id": 3
+    },
+    {
+      "text": "Закончить ToDo на Vue + json-server",
+      "categoryId": 12,
+      "id": 4
+    }
+  ],
+  "colors": [
+    {
+      "id": 2,
+      "hex": "#23d160",
+      "name": "green"
+    },
+    {
+      "id": 8,
+      "hex": "#ff3860",
+      "name": "red"
+    },
+    {
+      "id": 3,
+      "hex": "#3273dc",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#ffdd57",
+      "name": "yellow"
+    },
+    {
+      "id": 5,
+      "hex": "#00d1b2",
+      "name": "turquoise"
+    },
+    {
+      "id": 6,
+      "hex": "#209cee",
+      "name": "light-blue"
+    },
+    {
+      "id": 7,
+      "hex": "#363636",
+      "name": "black"
+    },
+    {
+      "id": 1,
+      "hex": "#b5b5b5",
+      "name": "light-grey"
+    }
+  ]
+}
