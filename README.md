@@ -15,5 +15,10 @@ npm run serve
 npm run build
 ```
 
+### Runs fake json-server
+```
+npm run api
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
